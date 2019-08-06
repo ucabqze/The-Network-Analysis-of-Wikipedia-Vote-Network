@@ -1,3 +1,5 @@
+The most basic tool, Excel, was used to plot the in-degree and out-degree distributions. A professional visualization and exploration software ‘Gephi’ was used to help visualize the network and partition the network into communities. In addition, the networkx library and matplotlib library in Python3 facilitated the analysis of mixing pattern and rich-club coefficient.
+
 #Here is an explanation for the files in this folder:
 
 
